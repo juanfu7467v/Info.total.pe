@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 const HOST = "0.0.0.0"; 
 
 // 🎯 CLAVE: Definir la URL base pública si no se proporciona como variable de entorno
-const API_BASE_URL = process.env.API_BASE_URL || "https://imagen-v2.fly.dev";
+const API_BASE_URL = process.env.API_BASE_URL || "https://info-total-pe.fly.dev";
 
 // --- Configuración de GitHub (Se mantiene igual) ---
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;

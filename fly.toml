@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for gdni-imagen-v2 on 2025-11-21T13:23:11Z
+# fly.toml app configuration file generated for info-total-pe on 2025-11-23T12:10:31Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'gdni-imagen-v2'
+app = 'info-total-pe'
 primary_region = 'iad'
 
 [build]
